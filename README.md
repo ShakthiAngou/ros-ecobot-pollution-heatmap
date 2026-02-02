@@ -1,6 +1,6 @@
 # ROS EcoBot: Pollution Sensing + Heatmap Mapping
 
-## Project overview
+### Project overview
 This is a learning-first robotics project that simulates pollution sensing and mapping to generate a cleanup heatmap. The focus is on understanding core robotics and ROS2 concepts through a software-only pipeline.
 
 The goal is to implement a minimal and realistic environmental robotics pipeline: **robot motion → pose/odometry → pollution sensing → heatmap mapping → visualization**
@@ -37,6 +37,6 @@ The goal is to implement a minimal and realistic environmental robotics pipeline
 - Visualize robot state and heatmap
 - Add launch files for reproducible runs
 - Record demo and document learning outcomes
-- 
+  
 **References:**
 1. [ROS 2 Documentation: Humble](https://docs.ros.org/en/humble/index.html)
